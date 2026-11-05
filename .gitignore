@@ -1,0 +1,9 @@
+# Build output and test programs
+build/
+*.o
+
+# Diagnostic logs can contain window type names from your computer
+*.log
+
+# Local settings next to a test copy
+*_test.ini
